@@ -1,4 +1,4 @@
-main_package_path = ./cmd/api 
+main_package_path = ./cmd/gowc
 binary_name = gowc
 
 
